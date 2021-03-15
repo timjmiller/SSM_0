@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+SSM_0_old.r
+*.so
+*.o
+red.RData
